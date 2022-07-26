@@ -1,0 +1,11 @@
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\bin\Debug\MerhabaGünlük.exe.config
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\bin\Debug\MerhabaGünlük.exe
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\bin\Debug\MerhabaGünlük.pdb
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.csproj.AssemblyReference.cache
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.Form1.resources
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.Properties.Resources.resources
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.csproj.GenerateResource.cache
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.exe
+C:\Users\Ramo\source\repos\MerhabaGünlük\MerhabaGünlük\obj\Debug\MerhabaGünlük.pdb
